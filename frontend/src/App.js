@@ -42,7 +42,7 @@ function App() {
   return (
     <div className="App bg-gradient-to-br from-indigo-300 to-purple-700">
       <div className="flex flex-wrap flex-row h-screen justify-center items-center">
-          <div className="grid grid-column w-1/3 bg-white rounded shadow-lg p-8">
+          <div className="grid grid-column md:w-1/3 w-2/3 bg-white rounded shadow-lg p-8">
             <div className="md:flex md:items-center mb-3">
               <div className="md:w-1/3">
                 <label className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2" for="grid-last-name">
